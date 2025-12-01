@@ -1,5 +1,7 @@
 # Eurovision Data Visualization with Streamlit
 
+[REF] - https://github.com/krisajenkins/streamlit-demo
+
 A Streamlit application for visualizing Eurovision Song Contest voting data. Available in two versions:
 - **`main_pl.py`**: Uses Polars for efficient data processing
 - **`main.py`**: Uses Pandas for traditional data processing
