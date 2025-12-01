@@ -25,6 +25,8 @@ A Streamlit application for visualizing Eurovision Song Contest voting data. Ava
 # Clone or navigate to the project directory
 cd streamlit-data-visualization-eurovision
 
+uv sync --extra dev
+
 # uv will automatically install dependencies when you run the app
 uv run streamlit run main_pl.py
 ```
